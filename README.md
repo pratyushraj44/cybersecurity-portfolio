@@ -30,7 +30,6 @@ Cyber Security Specialist with hands-on experience in SOC operations and VAPT.
 - Visualized attack trends & severity  
 - Simulates real SOC environment  
 
-👉 (Add screenshots here later)
 
 ---
 
